@@ -7,6 +7,7 @@ Public repository for tracking issues for boardgames.dicksontsai.com.
 
 ### UI
 There seems to be a dark & light mode going on.
+![answer](/img_ref/answer-dark.png)
 While dark mode works well, light mode uses a gradient background and the text in the answer is black.
 ![answer](/img_ref/answer.png)
 
